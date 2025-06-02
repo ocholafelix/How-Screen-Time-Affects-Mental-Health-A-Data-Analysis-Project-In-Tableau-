@@ -36,7 +36,7 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-https://public.tableau.com/views/Book1_17488493511640/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+🔗 [Dashboard Preview](https://public.tableau.com/views/Book1_17488493511640/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## ✍️ Blog Walkthrough
 
